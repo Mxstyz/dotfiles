@@ -3,7 +3,7 @@ export EDITOR="nvim"
 export TERMINAL="foot"
 
 #PATH
-export PATH="$PATH:$(find $HOME/.local/bin -type d | paste -sd ':' -)"
+export PATH="$PATH:$(find ~/.local/bin -type f -executable -not -path '*/share/*' -exec dirname {} \; | sort -u | paste -sd ':' -)"
 
 #Dark mode theming
 export GTK_THEME=Adwaita:dark
