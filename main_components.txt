@@ -1,0 +1,81 @@
+#Text Editor
+neovim/
+
+#File Browser
+lf/
+
+#Web Browser
+firefox-esr
+
+#Video Player
+mpv
+
+#Window Manager
+hyprland
+
+#Terminal
+foot
+
+#Notifcations
+dunst
+
+#Task/Status Bar
+waybar
+
+#Application Launcher
+tofi
+
+#Wallpaper
+#swww (HAVE TO COMPILE FROM SOURCE)
+
+#Audio
+pipewire-audio
+
+#Shell
+zsh
+
+#Terminal Privilege Elevation
+sudo
+
+#Graphical Privilege Elevation
+lxqt-policykit
+
+#Screenshotting
+slurp
+grim
+
+#Streamsharing
+pipewire
+wireplumber
+xdg-desktop-portal-hyprland
+
+#Clipboard
+wl-clipboard
+
+#File Picker
+xdg-desktop-portal-gtk
+
+#App Image Support (Program Packaging Format)
+libfuse2
+
+#Flatpak Support (Program Packaging Format)
+flatpak
+
+#Filewall
+ufw
+
+#Networking
+network-manager
+
+#Fonts
+fonts-dejavu
+fonts-liberation
+fonts-noto
+fonts-noto-cjk
+fonts-noto-color-emoji
+
+#Bluetooth
+bluetooth
+
+
+
